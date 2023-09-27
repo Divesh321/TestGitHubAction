@@ -1,5 +1,5 @@
 {
-  "name": "angular-github-actions",
+  "name": "TestGitHubAction",
   "version": "1.0.0",
   "description": "Application example built with Angular 15 and hosted on GitHub Pages using GitHub Actions.",
   "author": "Divesh <diveshchavan1@gmail.com> (https://github.com/Divesh321)",
@@ -9,7 +9,7 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration production --base-href https://github.com/Divesh321/githubactions-angular/",
+    "build:prod": "ng build --configuration production --base-href https://github.com/Divesh321/TestGitHubAction/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test",
     "test:headless": "ng test --watch=false --browsers=ChromeHeadless"
